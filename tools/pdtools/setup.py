@@ -12,7 +12,7 @@ setup(
         'future~=0.16.0',
         'GitPython~=2.1.5',
         'jsonschema~=2.6.0',
-        'PyYAML~=3.12',
+        'PyYAML>=3.12,<6.0',
         'requests~=2.18.1',
         'six~=1.10.0',
         'websocket-client~=0.40.0'
