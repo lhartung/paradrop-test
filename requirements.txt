@@ -33,7 +33,7 @@ pycurl==7.43.0
 pyflakes==1.6.0
 PyJWT==1.5.3
 pyOpenSSL==16.0.0
-PyYAML==3.11
+PyYAML==5.4
 requests==2.15.1
 service-identity==16.0.0
 setuptools==28.8.0
