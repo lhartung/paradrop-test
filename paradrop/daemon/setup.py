@@ -28,7 +28,7 @@ setup(
         'requests==2.15.1', # Fix requests version until we can get idna>=2.5.
         'service_identity>=16.0.0',
         'smokesignal>=0.7.0',
-        'Twisted==16.2.0',
+        'Twisted==22.1.0',
         'txdbus',
         'txmsgpackrpc>=1.1',
         'txsockjs==1.2.2',
