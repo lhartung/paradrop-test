@@ -36,7 +36,7 @@ pyOpenSSL==16.0.0
 PyYAML==3.11
 requests==2.15.1
 service-identity==16.0.0
-setuptools==28.8.0
+setuptools==65.5.1
 six==1.10.0
 smokesignal==0.7.0
 Sphinx==1.6.3
